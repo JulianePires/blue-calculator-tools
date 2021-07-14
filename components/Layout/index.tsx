@@ -15,9 +15,9 @@ const Layout = ({ title, children }: LayoutProps) => {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta
           name="description"
-          content="Temperature conversor made with Next JS, Material UI and Typescript"
+          content="Calculator tools | Numeric calculator, IMC calculator and Term Conversor"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/calculator.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
